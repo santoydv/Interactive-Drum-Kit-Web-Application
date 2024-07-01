@@ -1,6 +1,6 @@
 
 ## Internet Explorer
 
-The HTML part of this task was easier for me than CSS and Javascript. I learned the basics of CSS and Javascript to complete this task. This is one of the [github repo](https://github.com/kanhadharmikk/k4) that helped me with this task.
-
-![](https://github.com/santoydv/amfoss-tasks/blob/main/task-08/Drumkit.png)
+1. Developed a drum kit web application with 7 buttons, each triggering a unique sound using JavaScript event listeners.
+2. Styled the interface with CSS, integrated Google Fonts for typography enhancement, and linked assets for seamless audio playback.
+![](https://github.com/santoydv/Interactive-Drum-Kit-Web-Application/blob/main/Drumkit.png)
